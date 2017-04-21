@@ -28,3 +28,12 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+Workshop-2/Library/CurrentLayout\.dwlt
+
+Workshop-2/Library/
+
+Workshop-2/Temp/
+
+Workshop-2/Builds/
+Workshop-2/ProjectSettings/ProjectSettings.asset
